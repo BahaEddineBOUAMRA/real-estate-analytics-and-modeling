@@ -75,7 +75,7 @@ XGBoost outperformed the decision tree with lower error and better generalizatio
 ## How to Run
 
 1. Clone the repository.
-2. Install dependencies (e.g., via `pip install -r requirements.txt`).
+2. Install dependencies.
 3. Download or place the dataset `real_estate_agent.csv` in the appropriate directory and update the file path in the notebook if needed.
 4. Run the notebook cells sequentially to reproduce data processing, modeling, and evaluation.
 
@@ -96,3 +96,4 @@ XGBoost outperformed the decision tree with lower error and better generalizatio
 ## License
 
 The dataset is synthetic, and no license is required for this project.
+
